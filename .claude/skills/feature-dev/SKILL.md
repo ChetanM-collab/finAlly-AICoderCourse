@@ -29,5 +29,5 @@ Create a fresh branch off an up-to-date `main` before starting work on a new fea
 
 ## Rules
 
-- `origin` is the user's repo; `upstream` is the course repo. Never push to `upstream`.
+- `origin` is the user's repo and the only remote.
 - Do not commit, merge, or open a PR as part of this skill. Feature work happens next, on the new branch.
